@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 """
 Created by: Arnab Das
@@ -69,4 +67,3 @@ exit.place(x = 225, y = 200)
 
 
 conv.mainloop()
-
